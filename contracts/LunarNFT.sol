@@ -8,8 +8,8 @@ import "erc721a/contracts/ERC721A.sol";
 
 contract LunarNFT is Ownable, ERC721A, ReentrancyGuard {
 
-    string public baseURI = "https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/master/metadata/json/";
-    string public blindURL = "https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/master/metadata/json/nonreveal.json";
+    string public baseURI = "https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/json/";
+    string public blindURL = "https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/json/nonreveal.json";
     uint256 public constant priceOG = 0.10 ether;
     uint256 public constant priceWL = 0.088 ether;
     uint256 public constant price = 0.30 ether;
