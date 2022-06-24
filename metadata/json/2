@@ -1,5 +1,1 @@
-{
-    "name": "LunarNFT",
-    "description": "Lunar LunarNFT",
-    "image": "https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/2.jpeg"
-}
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/2.jpeg","name":"Lunar #2","attributes":[{"trait_type":"ANIMAL","value":"Goat"},{"trait_type":"BACK ITEM","value":"Legendary Goat"},{"trait_type":"BACKGROUND","value":"Legendary Goat"},{"trait_type":"BADGE-LIKE","value":"Legendary Goat"},{"trait_type":"BADGE-LIKE-COLOR","value":"Legendary Goat"},{"trait_type":"BADGE-LOVE","value":"Legendary Goat"},{"trait_type":"BADGE-LOVE-COLOR","value":"Legendary Goat"},{"trait_type":"EARRINGS","value":"Legendary Goat"},{"trait_type":"EYES-GLASSES","value":"Legendary Goat"},{"trait_type":"HAT","value":"Legendary Goat"},{"trait_type":"IN-MOUTH","value":"Legendary Goat"},{"trait_type":"LOGO","value":"Legendary Goat"},{"trait_type":"MOOD","value":"Legendary Goat"},{"trait_type":"SKIN","value":"Legendary Goat"},{"trait_type":"SUIT","value":"Legendary Goat"},{"trait_type":"SUIT PATTERN","value":"Legendary Goat"},{"trait_type":"ZODIAC SIGN","value":"Legendary Goat"}]}

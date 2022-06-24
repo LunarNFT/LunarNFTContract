@@ -1,5 +1,1 @@
-{
-    "name": "LunarNFT",
-    "description": "Lunar LunarNFT",
-    "image": "https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/0.jpeg"
-}
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/0.jpeg","name":"Lunar #0","attributes":[{"trait_type":"ANIMAL","value":"Dog"},{"trait_type":"BACK ITEM","value":"Legendary Dog"},{"trait_type":"BACKGROUND","value":"Legendary Dog"},{"trait_type":"BADGE-LIKE","value":"Legendary Dog"},{"trait_type":"BADGE-LIKE-COLOR","value":"Legendary Dog"},{"trait_type":"BADGE-LOVE","value":"Legendary Dog"},{"trait_type":"BADGE-LOVE-COLOR","value":"Legendary Dog"},{"trait_type":"EARRINGS","value":"Legendary Dog"},{"trait_type":"EYES-GLASSES","value":"Legendary Dog"},{"trait_type":"HAT","value":"Legendary Dog"},{"trait_type":"IN-MOUTH","value":"Legendary Dog"},{"trait_type":"LOGO","value":"Legendary Dog"},{"trait_type":"MOOD","value":"Legendary Dog"},{"trait_type":"SKIN","value":"Legendary Dog"},{"trait_type":"SUIT","value":"Legendary Dog"},{"trait_type":"SUIT PATTERN","value":"Legendary Dog"},{"trait_type":"ZODIAC SIGN","value":"Legendary Dog"}]}
