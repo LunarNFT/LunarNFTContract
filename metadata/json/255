@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/255.png",
+"name":"Lunar #255",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Pig"},
+{"trait_type":"BACK ITEM","value":"Baloon"},
+{"trait_type":"BACKGROUND","value":"Wood"},
+{"trait_type":"BADGE-LIKE","value":"Leo"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"White"},
+{"trait_type":"BADGE-LOVE","value":"22 Full Energy"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"Wood Element Earring"},
+{"trait_type":"EYES-GLASSES","value":"Party Glasses"},
+{"trait_type":"HAT","value":"Workman Helmet"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Sad"},
+{"trait_type":"SKIN","value":"Dolce Vita Pink"},
+{"trait_type":"SUIT","value":"Blazer"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Leo"}
+]}

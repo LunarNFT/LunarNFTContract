@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/36.png",
+"name":"Lunar #36",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Ox"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Wood"},
+{"trait_type":"BADGE-LIKE","value":"Scorpius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Green"},
+{"trait_type":"BADGE-LOVE","value":"24 Destiny"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Orange"},
+{"trait_type":"EARRINGS","value":"Eight Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Cap Blue"},
+{"trait_type":"IN-MOUTH","value":"Brocoli"},
+{"trait_type":"LOGO","value":"16 Open Dao2"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Animal Print"},
+{"trait_type":"SUIT","value":"Bomber Jacket"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Scorpius"}
+]}

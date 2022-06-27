@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/101.png",
+"name":"Lunar #101",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Horse"},
+{"trait_type":"BACK ITEM","value":"Viking Shield"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"Libra"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Pink"},
+{"trait_type":"BADGE-LOVE","value":"96 Cinema"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Blue"},
+{"trait_type":"EARRINGS","value":"721 Earring"},
+{"trait_type":"EYES-GLASSES","value":"Steampunk Color Glasses"},
+{"trait_type":"HAT","value":"Pirate Hat"},
+{"trait_type":"IN-MOUTH","value":"Toufu"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Bomber Jacket"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Libra"}
+]}

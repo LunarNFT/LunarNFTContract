@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/1968.png",
+"name":"Lunar #1968",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Horse"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Earth"},
+{"trait_type":"BADGE-LIKE","value":"Sagitarius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Green"},
+{"trait_type":"BADGE-LOVE","value":"99 Crown"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"SOS Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Pamela"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"T Shirt Color2"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Sagitarius"}
+]}

@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/12.png",
+"name":"Lunar #12",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dog"},
+{"trait_type":"BACK ITEM","value":"Open Dao Shield"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"Leo"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Blue"},
+{"trait_type":"BADGE-LOVE","value":"80 Wallet"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Orange"},
+{"trait_type":"EARRINGS","value":"SOS Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Cap Grey"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"15 Open Dao1"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"Knitted Sweatter Blue"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Leo"}
+]}

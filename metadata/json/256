@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/256.png",
+"name":"Lunar #256",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dragon"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Wood"},
+{"trait_type":"BADGE-LIKE","value":"Gemini"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Orange"},
+{"trait_type":"BADGE-LOVE","value":"02 Eye"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"Open Dao Earring"},
+{"trait_type":"EYES-GLASSES","value":"Sleep Mask"},
+{"trait_type":"HAT","value":"None"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"07 Monkey"},
+{"trait_type":"MOOD","value":"Sad"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"Hoodie Red"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Gemini"}
+]}

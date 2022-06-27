@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/2502.png",
+"name":"Lunar #2502",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Ox"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"None"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"N/A"},
+{"trait_type":"BADGE-LOVE","value":"00 Chat Bubble"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"Capricornius Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Casserole"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"Denim"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Capricornius"}
+]}

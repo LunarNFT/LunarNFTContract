@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/50.png",
+"name":"Lunar #50",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Horse"},
+{"trait_type":"BACK ITEM","value":"Red Pocket Money"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"Gemini"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Pink"},
+{"trait_type":"BADGE-LOVE","value":"91 Smiley"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Blue"},
+{"trait_type":"EARRINGS","value":"Septum"},
+{"trait_type":"EYES-GLASSES","value":"Star Glasses"},
+{"trait_type":"HAT","value":"Workman Helmet"},
+{"trait_type":"IN-MOUTH","value":"Micro"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"T Shirt Color1"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Gemini"}
+]}

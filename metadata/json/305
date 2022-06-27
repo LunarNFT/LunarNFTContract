@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/305.png",
+"name":"Lunar #305",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Horse"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Water"},
+{"trait_type":"BADGE-LIKE","value":"Taurus"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Orange"},
+{"trait_type":"BADGE-LOVE","value":"55 Bug"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Red"},
+{"trait_type":"EARRINGS","value":"SOS Earring"},
+{"trait_type":"EYES-GLASSES","value":"Star Glasses"},
+{"trait_type":"HAT","value":"Charro Hat"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"12 SOS 1"},
+{"trait_type":"MOOD","value":"Sad"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"American Football B Green"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Taurus"}
+]}

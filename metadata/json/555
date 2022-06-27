@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/555.png",
+"name":"Lunar #555",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Rabbit"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Water"},
+{"trait_type":"BADGE-LIKE","value":"Virgo"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Yellow"},
+{"trait_type":"BADGE-LOVE","value":"21 Foodie"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Orange"},
+{"trait_type":"EARRINGS","value":"None"},
+{"trait_type":"EYES-GLASSES","value":"Lennon Glasses"},
+{"trait_type":"HAT","value":"Cap Red"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"10 Snake"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Dolce Vita Pink"},
+{"trait_type":"SUIT","value":"Hoodie White"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Virgo"}
+]}

@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/252.png",
+"name":"Lunar #252",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Pig"},
+{"trait_type":"BACK ITEM","value":"Pirate Flag"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"Gemini"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Pink"},
+{"trait_type":"BADGE-LOVE","value":"23 Nature"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"SOS Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Cap Blue"},
+{"trait_type":"IN-MOUTH","value":"Lamb Skewer"},
+{"trait_type":"LOGO","value":"16 Open Dao2"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Animal Print"},
+{"trait_type":"SUIT","value":"Knitted Sweatter Yellow"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Gemini"}
+]}

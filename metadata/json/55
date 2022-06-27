@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/55.png",
+"name":"Lunar #55",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Horse"},
+{"trait_type":"BACK ITEM","value":"Axe"},
+{"trait_type":"BACKGROUND","value":"Water"},
+{"trait_type":"BADGE-LIKE","value":"Libra"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Yellow"},
+{"trait_type":"BADGE-LOVE","value":"59 Race"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Red"},
+{"trait_type":"EARRINGS","value":"Cross Earring"},
+{"trait_type":"EYES-GLASSES","value":"Wiper Glasses"},
+{"trait_type":"HAT","value":"None"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Paradise Blue"},
+{"trait_type":"SUIT","value":"Qipao Yellow"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Libra"}
+]}

@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/11.png",
+"name":"Lunar #11",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Pig"},
+{"trait_type":"BACK ITEM","value":"Wood Sword"},
+{"trait_type":"BACKGROUND","value":"Earth"},
+{"trait_type":"BADGE-LIKE","value":"Aries"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Red"},
+{"trait_type":"BADGE-LOVE","value":"99 Crown"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"Aries Earring"},
+{"trait_type":"EYES-GLASSES","value":"Fire Glasses"},
+{"trait_type":"HAT","value":"Dizzy"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Smiley"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Qipao White"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Aries"}
+]}

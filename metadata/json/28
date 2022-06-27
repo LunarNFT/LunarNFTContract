@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/28.png",
+"name":"Lunar #28",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dog"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Wood"},
+{"trait_type":"BADGE-LIKE","value":"Taurus"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"White"},
+{"trait_type":"BADGE-LOVE","value":"17 Suitcase"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Yellow"},
+{"trait_type":"EARRINGS","value":"Silver Hoop"},
+{"trait_type":"EYES-GLASSES","value":"Lennon Glasses"},
+{"trait_type":"HAT","value":"None"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"15 Open Dao1"},
+{"trait_type":"MOOD","value":"Sad"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Hoodie Brown"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Taurus"}
+]}

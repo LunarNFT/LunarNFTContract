@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/54.png",
+"name":"Lunar #54",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dog"},
+{"trait_type":"BACK ITEM","value":"Red Pocket Money"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"Taurus"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Green"},
+{"trait_type":"BADGE-LOVE","value":"102 Bicicle"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Green"},
+{"trait_type":"EARRINGS","value":"Cross Earring"},
+{"trait_type":"EYES-GLASSES","value":"Steampunk Color Glasses"},
+{"trait_type":"HAT","value":"Gladiator"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"00 Horse"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"Hoodie Blue"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Taurus"}
+]}

@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/802.png",
+"name":"Lunar #802",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Monkey"},
+{"trait_type":"BACK ITEM","value":"Viking Shield"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"None"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"N/A"},
+{"trait_type":"BADGE-LOVE","value":"None"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"N/A"},
+{"trait_type":"EARRINGS","value":"Water Element Earring"},
+{"trait_type":"EYES-GLASSES","value":"Safety Glasses"},
+{"trait_type":"HAT","value":"Sherlock Hat"},
+{"trait_type":"IN-MOUTH","value":"Party Noisemaker"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"Denim"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Taurus"}
+]}

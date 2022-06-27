@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/386.png",
+"name":"Lunar #386",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Rabbit"},
+{"trait_type":"BACK ITEM","value":"Trident"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"Capricornius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"White"},
+{"trait_type":"BADGE-LOVE","value":"10 Storm"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Red"},
+{"trait_type":"EARRINGS","value":"721 Earring"},
+{"trait_type":"EYES-GLASSES","value":"Wiper Glasses"},
+{"trait_type":"HAT","value":"None"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Paradise Blue"},
+{"trait_type":"SUIT","value":"Bomber Jacket"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Capricornius"}
+]}

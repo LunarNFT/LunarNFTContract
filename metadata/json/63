@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/63.png",
+"name":"Lunar #63",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Goat"},
+{"trait_type":"BACK ITEM","value":"Trident"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"Aquarius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Red"},
+{"trait_type":"BADGE-LOVE","value":"98 @"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Orange"},
+{"trait_type":"EARRINGS","value":"Open Dao Earring"},
+{"trait_type":"EYES-GLASSES","value":"Sleep Mask"},
+{"trait_type":"HAT","value":"Cap Backwards"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Dolce Vita Pink"},
+{"trait_type":"SUIT","value":"Blazer"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Aquarius"}
+]}

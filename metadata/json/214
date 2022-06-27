@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/214.png",
+"name":"Lunar #214",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Rabbit"},
+{"trait_type":"BACK ITEM","value":"Open Dao Shield"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"Libra"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Pink"},
+{"trait_type":"BADGE-LOVE","value":"88 Dance"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Blue"},
+{"trait_type":"EARRINGS","value":"Libra Earring"},
+{"trait_type":"EYES-GLASSES","value":"Lennon Glasses"},
+{"trait_type":"HAT","value":"Alien Antenna Headband"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Smiley"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"T Shirt Color3"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Libra"}
+]}

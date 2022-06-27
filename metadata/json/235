@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/235.png",
+"name":"Lunar #235",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Tiger"},
+{"trait_type":"BACK ITEM","value":"Pirate Flag"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"Gemini"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Pink"},
+{"trait_type":"BADGE-LOVE","value":"30 Baby"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Green"},
+{"trait_type":"EARRINGS","value":"Fire Element Earring"},
+{"trait_type":"EYES-GLASSES","value":"Water Sunglasses"},
+{"trait_type":"HAT","value":"Workman Helmet"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Dolce Vita Pink"},
+{"trait_type":"SUIT","value":"Soccer T Shirt Purple"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Gemini"}
+]}

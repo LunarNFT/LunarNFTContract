@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/2030.png",
+"name":"Lunar #2030",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Rat"},
+{"trait_type":"BACK ITEM","value":"Surf Table"},
+{"trait_type":"BACKGROUND","value":"Earth"},
+{"trait_type":"BADGE-LIKE","value":"None"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"N/A"},
+{"trait_type":"BADGE-LOVE","value":"None"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"N/A"},
+{"trait_type":"EARRINGS","value":"Eight Earring"},
+{"trait_type":"EYES-GLASSES","value":"Aviator Sunglasses"},
+{"trait_type":"HAT","value":"Speleologist Helmet"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Soccer T Shirt Red"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Taurus"}
+]}

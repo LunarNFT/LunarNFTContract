@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/229.png",
+"name":"Lunar #229",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Goat"},
+{"trait_type":"BACK ITEM","value":"Baloon"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"Aquarius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"White"},
+{"trait_type":"BADGE-LOVE","value":"90 Vip"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"Silver Hoop"},
+{"trait_type":"EYES-GLASSES","value":"Vintage Aviator Sunglasses"},
+{"trait_type":"HAT","value":"Crest Punk"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Dolce Vita Pink"},
+{"trait_type":"SUIT","value":"Knitted Sweatter Green"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Aquarius"}
+]}

@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/3101.png",
+"name":"Lunar #3101",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Rat"},
+{"trait_type":"BACK ITEM","value":"Keyboard"},
+{"trait_type":"BACKGROUND","value":"Water"},
+{"trait_type":"BADGE-LIKE","value":"None"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"N/A"},
+{"trait_type":"BADGE-LOVE","value":"65 Ice Pop"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Orange"},
+{"trait_type":"EARRINGS","value":"Small Hoop Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Two Police Siren"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Paradise Blue"},
+{"trait_type":"SUIT","value":"Soccer T Shirt Blue"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Capricornius"}
+]}

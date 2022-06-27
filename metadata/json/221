@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/221.png",
+"name":"Lunar #221",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Rabbit"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"Capricornius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Blue"},
+{"trait_type":"BADGE-LOVE","value":"26 Music"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Orange"},
+{"trait_type":"EARRINGS","value":"Fire Element Earring"},
+{"trait_type":"EYES-GLASSES","value":"Water Sunglasses"},
+{"trait_type":"HAT","value":"None"},
+{"trait_type":"IN-MOUTH","value":"Party Noisemaker"},
+{"trait_type":"LOGO","value":"14 721"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"American Football B Yellow"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Capricornius"}
+]}

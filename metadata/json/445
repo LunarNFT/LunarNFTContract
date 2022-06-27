@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/445.png",
+"name":"Lunar #445",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dog"},
+{"trait_type":"BACK ITEM","value":"Pirate Flag"},
+{"trait_type":"BACKGROUND","value":"Water"},
+{"trait_type":"BADGE-LIKE","value":"Scorpius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Orange"},
+{"trait_type":"BADGE-LOVE","value":"00 Chat Bubble"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"None"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Charro Hat"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Smiley"},
+{"trait_type":"SKIN","value":"Paradise Blue"},
+{"trait_type":"SUIT","value":"Dress"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Scorpius"}
+]}

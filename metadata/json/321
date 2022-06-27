@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/321.png",
+"name":"Lunar #321",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Monkey"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Earth"},
+{"trait_type":"BADGE-LIKE","value":"Virgo"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Orange"},
+{"trait_type":"BADGE-LOVE","value":"67 Astronomy"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Yellow"},
+{"trait_type":"EARRINGS","value":"None"},
+{"trait_type":"EYES-GLASSES","value":"Vr Glasses"},
+{"trait_type":"HAT","value":"Charro Hat"},
+{"trait_type":"IN-MOUTH","value":"Tanghulu Chinese Candy Food"},
+{"trait_type":"LOGO","value":"15 Open Dao1"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Hoodie Yellow"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Virgo"}
+]}

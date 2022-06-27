@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/2111.png",
+"name":"Lunar #2111",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Monkey"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Wood"},
+{"trait_type":"BADGE-LIKE","value":"Gemini"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Blue"},
+{"trait_type":"BADGE-LOVE","value":"06 Skull Bones"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Yellow"},
+{"trait_type":"EARRINGS","value":"Metal Element Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Cap Backwards"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Denim"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Gemini"}
+]}

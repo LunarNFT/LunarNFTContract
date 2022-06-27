@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/52.png",
+"name":"Lunar #52",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Monkey"},
+{"trait_type":"BACK ITEM","value":"Archer Quiver"},
+{"trait_type":"BACKGROUND","value":"Earth"},
+{"trait_type":"BADGE-LIKE","value":"Aries"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Green"},
+{"trait_type":"BADGE-LOVE","value":"00 Chat Bubble"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"Aries Earring"},
+{"trait_type":"EYES-GLASSES","value":"Wiper Glasses"},
+{"trait_type":"HAT","value":"Samurai"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Meditation"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"Qipao Red"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Aries"}
+]}

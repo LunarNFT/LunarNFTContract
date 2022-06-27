@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/1224.png",
+"name":"Lunar #1224",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Monkey"},
+{"trait_type":"BACK ITEM","value":"Bamboo Stick"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"None"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"N/A"},
+{"trait_type":"BADGE-LOVE","value":"77 Vampire"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Red"},
+{"trait_type":"EARRINGS","value":"Gemini Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Bee Antenna Headband"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Hawain T Shirt"},
+{"trait_type":"SUIT PATTERN","value":"59 Karafuru"},
+{"trait_type":"ZODIAC SIGN","value":"Gemini"}
+]}

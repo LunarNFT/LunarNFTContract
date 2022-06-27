@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/298.png",
+"name":"Lunar #298",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Tiger"},
+{"trait_type":"BACK ITEM","value":"Trident"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"Capricornius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Orange"},
+{"trait_type":"BADGE-LOVE","value":"42 Umbrella"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Green"},
+{"trait_type":"EARRINGS","value":"SOS Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Cap Pink"},
+{"trait_type":"IN-MOUTH","value":"Sushi"},
+{"trait_type":"LOGO","value":"01 Goat"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"Knitted Sweatter Yellow"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Capricornius"}
+]}

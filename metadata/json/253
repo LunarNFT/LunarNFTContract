@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/253.png",
+"name":"Lunar #253",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Goat"},
+{"trait_type":"BACK ITEM","value":"Skateboard"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"Scorpius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Orange"},
+{"trait_type":"BADGE-LOVE","value":"34 Wine"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Yellow"},
+{"trait_type":"EARRINGS","value":"SOS Earring"},
+{"trait_type":"EYES-GLASSES","value":"Wraparound Glasses"},
+{"trait_type":"HAT","value":"Cactus"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"01 Goat"},
+{"trait_type":"MOOD","value":"Smiley"},
+{"trait_type":"SKIN","value":"Animal Print"},
+{"trait_type":"SUIT","value":"Hoodie Brown"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Scorpius"}
+]}

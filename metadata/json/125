@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/125.png",
+"name":"Lunar #125",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Pig"},
+{"trait_type":"BACK ITEM","value":"Pirate Flag"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"None"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"N/A"},
+{"trait_type":"BADGE-LOVE","value":"43 Map"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"White"},
+{"trait_type":"EARRINGS","value":"721 Earring"},
+{"trait_type":"EYES-GLASSES","value":"Vintage Aviator Sunglasses"},
+{"trait_type":"HAT","value":"Navy"},
+{"trait_type":"IN-MOUTH","value":"Taco"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Good Fortune Red"},
+{"trait_type":"SUIT","value":"Blazer"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Gemini"}
+]}

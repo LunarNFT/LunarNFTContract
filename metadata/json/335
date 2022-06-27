@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/335.png",
+"name":"Lunar #335",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Rat"},
+{"trait_type":"BACK ITEM","value":"Baloon"},
+{"trait_type":"BACKGROUND","value":"Wood"},
+{"trait_type":"BADGE-LIKE","value":"Taurus"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Orange"},
+{"trait_type":"BADGE-LOVE","value":"64 Cocktail"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Green"},
+{"trait_type":"EARRINGS","value":"Taurus Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Asterix"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Knitted Sweatter Yellow"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Taurus"}
+]}

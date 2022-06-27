@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/2023.png",
+"name":"Lunar #2023",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dog"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"Virgo"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Yellow"},
+{"trait_type":"BADGE-LOVE","value":"65 Ice Pop"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Blue"},
+{"trait_type":"EARRINGS","value":"721 Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Sultan"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Rainbow Hope"},
+{"trait_type":"SUIT","value":"Qipao Red"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Virgo"}
+]}

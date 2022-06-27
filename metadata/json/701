@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/701.png",
+"name":"Lunar #701",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Tiger"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Water"},
+{"trait_type":"BADGE-LIKE","value":"Capricornius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Blue"},
+{"trait_type":"BADGE-LOVE","value":"24 Destiny"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Red"},
+{"trait_type":"EARRINGS","value":"Cross Earring"},
+{"trait_type":"EYES-GLASSES","value":"Espiral"},
+{"trait_type":"HAT","value":"Crown"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Dolce Vita Pink"},
+{"trait_type":"SUIT","value":"Qipao Black"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Capricornius"}
+]}

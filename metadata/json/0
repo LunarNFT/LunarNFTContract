@@ -1,1 +1,21 @@
-{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/0.jpeg","name":"Lunar #0","attributes":[{"trait_type":"ANIMAL","value":"Dog"},{"trait_type":"BACK ITEM","value":"Legendary Dog"},{"trait_type":"BACKGROUND","value":"Legendary Dog"},{"trait_type":"BADGE-LIKE","value":"Legendary Dog"},{"trait_type":"BADGE-LIKE-COLOR","value":"Legendary Dog"},{"trait_type":"BADGE-LOVE","value":"Legendary Dog"},{"trait_type":"BADGE-LOVE-COLOR","value":"Legendary Dog"},{"trait_type":"EARRINGS","value":"Legendary Dog"},{"trait_type":"EYES-GLASSES","value":"Legendary Dog"},{"trait_type":"HAT","value":"Legendary Dog"},{"trait_type":"IN-MOUTH","value":"Legendary Dog"},{"trait_type":"LOGO","value":"Legendary Dog"},{"trait_type":"MOOD","value":"Legendary Dog"},{"trait_type":"SKIN","value":"Legendary Dog"},{"trait_type":"SUIT","value":"Legendary Dog"},{"trait_type":"SUIT PATTERN","value":"Legendary Dog"},{"trait_type":"ZODIAC SIGN","value":"Legendary Dog"}]}
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/0.png",
+"name":"Lunar #0",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Tiger"},
+{"trait_type":"BACK ITEM","value":"None"},
+{"trait_type":"BACKGROUND","value":"Metal"},
+{"trait_type":"BADGE-LIKE","value":"Taurus"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Red"},
+{"trait_type":"BADGE-LOVE","value":"15 Coffee"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Blue"},
+{"trait_type":"EARRINGS","value":"Taurus Earring"},
+{"trait_type":"EYES-GLASSES","value":"None"},
+{"trait_type":"HAT","value":"Fruit Basket"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"12 SOS 1"},
+{"trait_type":"MOOD","value":"Sad"},
+{"trait_type":"SKIN","value":"Dolce Vita Pink"},
+{"trait_type":"SUIT","value":"American Football R Brown"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Taurus"}
+]}

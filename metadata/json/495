@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/495.png",
+"name":"Lunar #495",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dragon"},
+{"trait_type":"BACK ITEM","value":"Trident"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"None"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"N/A"},
+{"trait_type":"BADGE-LOVE","value":"80 Wallet"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Blue"},
+{"trait_type":"EARRINGS","value":"Metal Element Earring"},
+{"trait_type":"EYES-GLASSES","value":"Aviator Sunglasses"},
+{"trait_type":"HAT","value":"Fedora Hat"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"07 Monkey"},
+{"trait_type":"MOOD","value":"Normal"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Hoodie Red"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Scorpius"}
+]}

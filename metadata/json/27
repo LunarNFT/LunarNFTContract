@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/27.png",
+"name":"Lunar #27",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dragon"},
+{"trait_type":"BACK ITEM","value":"Bamboo Stick"},
+{"trait_type":"BACKGROUND","value":"Wood"},
+{"trait_type":"BADGE-LIKE","value":"Scorpius"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Orange"},
+{"trait_type":"BADGE-LOVE","value":"69 Butterfly"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Orange"},
+{"trait_type":"EARRINGS","value":"Earth Element Earring"},
+{"trait_type":"EYES-GLASSES","value":"Water Sunglasses"},
+{"trait_type":"HAT","value":"Trap"},
+{"trait_type":"IN-MOUTH","value":"Chewing Gum"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Open Mouth"},
+{"trait_type":"SKIN","value":"Animal Print"},
+{"trait_type":"SUIT","value":"Dress"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Scorpius"}
+]}

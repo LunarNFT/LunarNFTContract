@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/1004.png",
+"name":"Lunar #1004",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dragon"},
+{"trait_type":"BACK ITEM","value":"Skateboard"},
+{"trait_type":"BACKGROUND","value":"Fire"},
+{"trait_type":"BADGE-LIKE","value":"None"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"N/A"},
+{"trait_type":"BADGE-LOVE","value":"68 Lucky Eight"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Red"},
+{"trait_type":"EARRINGS","value":"Small Hoop Earring"},
+{"trait_type":"EYES-GLASSES","value":"Water Sunglasses"},
+{"trait_type":"HAT","value":"Joker"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Sad"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Blazer"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Virgo"}
+]}

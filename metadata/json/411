@@ -1,0 +1,21 @@
+{"image":"https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/media/411.png",
+"name":"Lunar #411",
+"attributes":[
+{"trait_type":"ANIMAL","value":"Dragon"},
+{"trait_type":"BACK ITEM","value":"Bamboo Stick"},
+{"trait_type":"BACKGROUND","value":"Wood"},
+{"trait_type":"BADGE-LIKE","value":"Taurus"},
+{"trait_type":"BADGE-LIKE-COLOR","value":"Orange"},
+{"trait_type":"BADGE-LOVE","value":"94 Poisson"},
+{"trait_type":"BADGE-LOVE-COLOR","value":"Pink"},
+{"trait_type":"EARRINGS","value":"None"},
+{"trait_type":"EYES-GLASSES","value":"Safety Glasses"},
+{"trait_type":"HAT","value":"Joker"},
+{"trait_type":"IN-MOUTH","value":"None"},
+{"trait_type":"LOGO","value":"N/A"},
+{"trait_type":"MOOD","value":"Smiley"},
+{"trait_type":"SKIN","value":"Original"},
+{"trait_type":"SUIT","value":"Knitted Sweatter Blue"},
+{"trait_type":"SUIT PATTERN","value":"N/A"},
+{"trait_type":"ZODIAC SIGN","value":"Taurus"}
+]}
