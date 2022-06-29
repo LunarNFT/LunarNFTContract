@@ -17,11 +17,11 @@ contract LunarNFT is Ownable, ERC721A, ReentrancyGuard {
     uint8 public maxPresaleMint = 1;
     uint8 public maxPublicMint = 10;
     uint256 public maxPresaleSupply = 3333;
-    uint256 public maxTokens = 20000;
+    uint256 public maxTokens = 3333;
     bool public isPresaleActive = false;
     bool public isPublicActive = false;
-    bool public isFreeMintActive = false;
-    bool public isRevealActive = false;
+    bool public isFreeMintActive = true;
+    bool public isRevealActive = true;
     bytes32 public presaleMerkleRoot;
 
     mapping (address => uint256) public mintedForPresale;
@@ -61,7 +61,7 @@ contract LunarNFT is Ownable, ERC721A, ReentrancyGuard {
     }
 
     //Free mint function
-    function mintFreeSale(uint256 numberOfTokens) external payable {
+    function mintFreeSale(uint256 numberOfTokens) external payable onlyOwner {
         require(isFreeMintActive, "FREE_SALE_MINT_IS_NOT_YET_ACTIVE");
         require(msg.value == 0, "INSUFFICIENT_FREESALE_PAYMENT");
         require(totalSupply() + numberOfTokens <= maxTokens, "EXCEEDS_MAX_SUPPLY" );
