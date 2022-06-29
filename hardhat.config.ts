@@ -50,7 +50,12 @@ const config: HardhatUserConfig = {
     },
     rinkeby: {
       url: "https://rinkeby.infura.io/v3/4b7a890ec6244488996e64769fef9649",
-      accounts: ["0x892ce972b2a58b5320ddefdf1a31c40aaaac94f4105f5845ea76d59b813d331b"],
+      accounts:
+        process.env.RINKEBY_PRIVATE_KEY !== undefined
+          ? [process.env.RINKEBY_PRIVATE_KEY]
+          : [
+              "0x892ce972b2a58b5320ddefdf1a31c40aaaac94f4105f5845ea76d59b813d331b",
+            ],
     },
     mainnet: {
       url: process.env.MAINNET_URL || "",
@@ -61,7 +66,7 @@ const config: HardhatUserConfig = {
     },
   },
   gasReporter: {
-    enabled: true,
+    enabled: process.env.G !== undefined,
     currency: "USD",
   },
   mocha: {
