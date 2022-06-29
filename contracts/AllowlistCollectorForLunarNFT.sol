@@ -6,8 +6,8 @@ import "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol";
 import "erc721a/contracts/ERC721A.sol";
 
 contract AllowlistCollectorForLunarNFT is Ownable, ERC721A {
-    string public baseURI = "https://raw.githubusercontent.com/The-OpenDAO/nft-lunar-metadata/master/metadata/json/";
-    string public blindURL = "https://raw.githubusercontent.com/The-OpenDAO/nft-lunar-metadata/master/metadata/json/nonreveal.json";
+    string public baseURI = "https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/json/";
+    string public blindURL = "https://raw.githubusercontent.com/LunarNFT/LunarNFTContract/main/metadata/json/nonreveal.json";
     uint256 public constant priceOG = 0.10 ether;
     uint256 public constant priceWL = 0.088 ether;
     uint256 public constant price = 0.30 ether;
@@ -15,11 +15,11 @@ contract AllowlistCollectorForLunarNFT is Ownable, ERC721A {
     uint8 public maxPresaleMint = 1;
     uint8 public maxPublicMint = 10;
     uint256 public maxPresaleSupply = 3333;
-    uint256 public maxTokens = 20000;
+    uint256 public maxTokens = 3333;
     bool public isPresaleActive = false;
     bool public isPublicActive = false;
-    bool public isFreeMintActive = false;
-    bool public isRevealActive = false;
+    bool public isFreeMintActive = true;
+    bool public isRevealActive = true;
     bytes32 public presaleMerkleRoot;
 
     mapping (address => uint256) public mintedForPresale;
@@ -60,7 +60,7 @@ contract AllowlistCollectorForLunarNFT is Ownable, ERC721A {
     }
 
     //Free mint function
-    function mintFreeSale(uint256 numberOfTokens) external payable {
+    function mintFreeSale(uint256 numberOfTokens) external payable onlyOwner {
         require(isFreeMintActive, "FREE_SALE_MINT_IS_NOT_YET_ACTIVE");
         require(msg.value == 0, "INSUFFICIENT_FREESALE_PAYMENT");
         require(totalSupply() + numberOfTokens <= maxTokens, "EXCEEDS_MAX_SUPPLY" );

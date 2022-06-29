@@ -31,9 +31,9 @@
     "prettier-plugin-solidity": "^1.0.0-beta.19",
     "solhint": "^3.3.6",
     "solidity-coverage": "^0.7.17",
-    "ts-node": "^10.4.0",
+    "ts-node": "^10.8.1",
     "typechain": "^5.2.0",
-    "typescript": "^4.6.2"
+    "typescript": "^4.7.4"
   },
   "dependencies": {
     "@chainlink/contracts": "^0.3.1",
